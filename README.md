@@ -37,7 +37,7 @@ This project focuses on creating a user-friendly and visually balanced product c
 ---
 
 ## 📸 Preview
-![Product Card UI](product card.png)
+![Product Card UI](product-card.png)
 
 ---
 
