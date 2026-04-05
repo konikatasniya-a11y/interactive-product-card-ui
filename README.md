@@ -32,7 +32,7 @@ This project focuses on creating a user-friendly and visually balanced product c
 ---
 
 ## 🛠️ Tools Used
-- Figma (UI Design & Prototyping)
+- Figma (UI Design & Auto layouting)
 
 ---
 
